@@ -33,3 +33,12 @@ section#telefone {
     width: 350px;    
     background:  url('../imagens/frame-motorola.png') no-repeat;
 }
+
+iframe#tela {
+    position: relative;
+    top: 12.3px;
+    left: 11px;
+    width: 331px;
+    height: 727px;
+    border-radius: 35px;
+}
