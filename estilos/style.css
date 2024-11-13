@@ -36,11 +36,11 @@ section#telefone {
 
 iframe#tela {
     position: relative;
-    top: 12.3px;
+    top: 10px;
     left: 11px;
-    width: 331px;
-    height: 727px;
-    border-radius: 35px;
+    width: 290px;
+    height: 645px;
+    border-radius: 25px;
 }
 
 section#redes-sociais {
